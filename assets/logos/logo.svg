@@ -1,6 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="53" height="52" viewBox="-10 -10 53 52">
-  <g fill="#05BF85" fill-rule="evenodd">
-    <path d="M20.14 2.13L33 10l-1 2-6.65-3.08a12.99 12.99 0 0 1-3 13.1l1.65 9.3c.07.38-.2.68-.57.68h-.74a.86.86 0 0 1-.81-.68l-1.36-7.71A12.93 12.93 0 0 1 14 25.96v5.34a.7.7 0 0 1-.7.7h-.6a.7.7 0 0 1-.7-.7v-5.34a12.93 12.93 0 0 1-6.5-2.35l-1.37 7.71a.86.86 0 0 1-.81.68h-.73a.56.56 0 0 1-.58-.68l1.64-9.29a13 13 0 0 1 16.49-19.9zM13 24a11 11 0 1 0 0-22 11 11 0 0 0 0 22z"/>
-    <path fill-opacity=".44" d="M13 24a11 11 0 0 0 11-11s-22-.1-22 0a11 11 0 0 0 11 11z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180mm"
+   height="180mm"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.38884384"
+     inkscape:cx="882.10219"
+     inkscape:cy="497.62908"
+     inkscape:window-width="1440"
+     inkscape:window-height="757"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 31.499996 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210.00001 : 31.499996 : 1"
+       inkscape:persp3d-origin="105 : -18.000003 : 1"
+       id="perspective175" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect416-8-4"
+       style="fill:#287c00;stroke-width:0.597362"
+       d="m 28.375995,14.915013 -1e-6,11.352279 H 43.55543 l 3e-6,47.338198 12.535152,10e-7 -3e-6,-47.338199 H 71.270017 V 14.915013 Z m -10.335287,12.25765 c -4.39525,0.01897 -7.917184,3.57223 -7.896676,7.967473 L 10.722808,159.1491 c 0.0112,2.39966 1.080724,4.53375 2.760552,5.97896 0.152981,0.16505 0.312361,0.32645 0.482635,0.48114 1.93917,1.76172 4.541542,2.39528 6.960809,1.93115 l 128.516716,-0.17828 c 4.22683,-0.006 7.6245,-3.41352 7.61813,-7.64037 -0.006,-4.22682 -3.41403,-7.62505 -7.64087,-7.61916 l -111.599393,0.15554 36.070664,-37.07319 c 3.010212,-3.09387 2.861186,-7.92098 -0.333829,-10.82363 -3.195015,-2.90264 -8.190654,-2.74867 -11.200867,0.3452 l -35.848974,36.8453 -0.4971,-106.479838 c -0.02051,-4.395242 -3.575323,-7.918225 -7.970573,-7.899259 z m 57.603203,16.822746 -3e-6,58.689951 17.137978,1e-5 c 3.873735,0 7.225034,-0.34154 10.054164,-1.02475 2.82913,-0.6832 5.42999,-1.891832 7.80211,-3.626133 3.15556,-2.312397 5.76721,-5.623256 7.83466,-9.932728 2.06743,-4.335745 3.1011,-9.236276 3.10111,-14.701942 -1e-5,-5.675889 -0.9684,-10.602927 -2.90525,-14.78101 -1.91511,-4.204364 -4.54886,-7.541729 -7.9003,-10.011794 -1.95863,-1.471528 -4.37393,-2.601651 -7.24658,-3.389972 -2.87266,-0.814596 -6.289239,-1.221629 -10.250024,-1.221631 z m 12.53515,10.957469 3.16673,-2e-6 c 2.698564,6e-6 4.711398,0.144519 6.038909,0.433566 1.349281,0.262774 2.66564,0.775335 3.94963,1.537379 2.52445,1.550354 4.36357,3.705093 5.51698,6.464203 1.17518,2.732836 1.76268,6.030692 1.76268,9.893456 0,3.88903 -0.53302,7.160384 -1.59939,9.814382 -1.06636,2.627731 -2.74201,4.72996 -5.02708,6.306591 -1.32751,0.867153 -2.687568,1.471727 -4.080368,1.813331 -1.392806,0.315326 -3.579887,0.472838 -6.561355,0.47284 l -3.166737,-5e-6 z m 38.584209,32.616101 v 58.690471 h 12.53515 l 1e-5,-19.19572 2.9378,-4.29639 14.52624,23.49211 h 15.37529 l -19.94503,-31.53296 18.99832,-27.157516 -14.52625,10e-7 -17.36638,26.566335 1e-5,-26.56633 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.6925px;font-family:Futura;-inkscape-font-specification:Futura;white-space:pre;inline-size:27.2543;display:inline;fill:#408c10;stroke-width:2.8077"
+       x="30.680769"
+       y="186.73183"
+       id="text516"
+       transform="scale(1.0911369,0.91647532)" />
   </g>
 </svg>
