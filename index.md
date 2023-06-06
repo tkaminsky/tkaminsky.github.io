@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Thomas Kaminsky
   Harvard University, '24
-feature_image: "https://drive.google.com/file/d/1cGxaMUOjpuRL9qf-i4X-8yVvtDOPuZbB/view?usp=sharing"
+feature_image: "cover_im.jpg"
 excerpt: "Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvard. I am passionate about leaveraging geometric reasoning to better understand and manipulate objects in the world. Thanks for visiting my website!"
 ---
 
