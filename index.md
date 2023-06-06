@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: 
 feature_text: |
   ## Thomas Kaminsky
   Harvard University, '24
