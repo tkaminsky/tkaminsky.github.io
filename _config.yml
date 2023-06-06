@@ -92,10 +92,10 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "TDK" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "Thomas Kaminsky's personal website." # Site description and default description, also used in jekyll-seo-tag
+url: "https://github.com/tkaminsky/tkaminsky.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/tkaminsky/tkaminsky.github.io"
 email: "tkaminsky@college.harvard.edu"
@@ -122,18 +122,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
+- title: CV
   url: /elements/
 - title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
   url: /search/
+- title: Blog
+  url: /blog/
 
 navigation_footer:
 - title: Created by Thomas Kaminsky
-  url: https://darn.es
+  url: https://github.com/tkaminsky/tkaminsky.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/thomas-kaminsky/
