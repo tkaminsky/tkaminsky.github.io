@@ -3,7 +3,7 @@ title: About Alembic
 feature_text: |
   ## Thomas Kaminsky
   Harvard University, '24
-feature_image: "https://github.com/tkaminsky/tkaminsky.github.io/blob/main/cover_im.png"
+feature_image: "https://github.com/tkaminsky/tkaminsky.github.io/blob/main/cover_im.jpg"
 excerpt: "Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvard. I am passionate about leaveraging geometric reasoning to better understand and manipulate objects in the world. Thanks for visiting my website!"
 ---
 
