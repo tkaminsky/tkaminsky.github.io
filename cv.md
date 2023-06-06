@@ -9,4 +9,4 @@ aside: true
 
 ### Image includes
 
-{% include figure.html image=TDK_Resume.jpg caption="Image with caption" width="612" height="792" %}
+{% include figure.html image=/TDK_Resume.jpg caption="Image with caption" width="612" height="792" %}
