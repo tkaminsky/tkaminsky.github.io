@@ -67,7 +67,7 @@ collections:
     description: "Here a few of my recent thoughts or ideas!" # The post list page content
     feature_text: |
       Welcome to my blog! Mostly pictures of recent trips, with a few other things springled in.
-    feature_image: "https://github.com/tkaminsky/tkaminsky.github.io/blob/main/cover_im.jpeg"
+    feature_image: "https://drive.google.com/file/d/1cGxaMUOjpuRL9qf-i4X-8yVvtDOPuZbB/view?usp=sharing"
 
 # 6. Jekyll collections settings
 defaults:
