@@ -123,9 +123,9 @@ navigation_header:
 - title: Home
   url: /
 - title: CV
-  url: /elements/
-- title: Blog
-  url: /search/
+  url: /cv/
+- title: Projects
+  url: /projects/
 - title: Blog
   url: /blog/
 
@@ -136,8 +136,7 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/thomas-kaminsky/
   GitHub: https://github.com/tkaminsky
-  link: https://www.instagram.com/tommy.kamin/
-  RSS: /feed.xml
+  Instagram: https://www.instagram.com/tommy.kamin/
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
