@@ -7,4 +7,4 @@ excerpt: "Here's a copy of my most recent resume."
 aside: true
 ---
 
-<embed src="https://tkaminsky.github.io/TDK_Resume.pdf" type="application/pdf" width="4000" height="3092" scale="tofit"/>
+<embed src="https://tkaminsky.github.io/TDK_Resume.pdf" type="application/pdf" width="660" height="510" scale="tofit"/>
