@@ -68,6 +68,13 @@ collections:
     feature_text: |
       <span style="color: white;">Welcome to my blog! Mostly pictures of recent trips, with a few other things springled in.</span>
     feature_image: /cover_im.jpeg
+   entries:
+    title: Projects # Needed for Siteleaf
+    output: true
+    description: "Here are my recent projects!" # The post list page content
+    feature_text: |
+      <span style="color: white;">Here are some of my recent projects. Enjoy!</span>
+    feature_image: /cover_im.jpeg
 
 # 6. Jekyll collections settings
 defaults:
