@@ -61,14 +61,14 @@ timezone: America/Los_Angeles # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
-  - label: entries
+  entries:
     title: Entries
     output: true
     description: "My entries."
     feature_text: |
       #<span style="color: white;">Here are some of my recent projects. Enjoy!</span>
     feature_image: /cover_im2.jpg
-  - label: posts
+  posts:
     title: Posts
     output: true
     description: "My posts."
