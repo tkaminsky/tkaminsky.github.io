@@ -2,8 +2,8 @@
 <ul class="list  list--entries">
   {% for page in site.related_posts limit: 3 %}
     {% assign has_related = true %}
-    <li class="item  item--post">
-      <article class="article  article--post  typeset">
+    <li class="item  item--entry">
+      <article class="article  article--entry  typeset">
 
         <h4><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h4>
         {% include entry-meta.html %}
@@ -14,6 +14,6 @@
   {% endfor %}
 
   {% if has_related != true %}
-    <p>There are no related posts</p>
+    <p>There are no related entries</p>
   {% endif %}
 </ul>
