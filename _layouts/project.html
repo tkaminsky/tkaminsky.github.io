@@ -12,7 +12,8 @@ layout: default
 
       {% if paginator.entries %}
         {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-        <h1>{{ collectiondata.title }}</h1>
+        <h1>Hello! {{ collectiondata.title }}</h1>
+        {{Please work!}}
         {{ collectiondata.description | markdownify }}
 
       {% else %}
