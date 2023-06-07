@@ -61,12 +61,6 @@ timezone: America/Los_Angeles # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My posts."
-    feature_text:
-    feature_image: /cover_im.jpeg
   entries:
     title: Entries
     output: true
@@ -74,6 +68,12 @@ collections:
     feature_text: |
       #<span style="color: white;">Here are some of my recent projects. Enjoy!</span>
     feature_image: /cover_im2.jpg
+  posts:
+    title: Posts
+    output: true
+    description: "My posts."
+    feature_text:
+    feature_image: /cover_im.jpeg
 
 # 6. Jekyll collections settings
 defaults:
