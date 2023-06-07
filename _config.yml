@@ -66,14 +66,14 @@ collections:
     output: true
     description: "My entries."
     feature_text: |
-      #<span style="color: white;">Here are some of my recent projects. Enjoy!</span>
-    feature_image: /cover_im2.jpg
+      <span style="color: white;">Here are some of my recent projects. Enjoy!</span>
+    feature_image: /images/cover_ims/skyline.jpeg
   posts:
     title: Posts
     output: true
     description: "My posts."
     feature_text:
-    feature_image: /cover_im.jpeg
+    feature_image: /images/cover_ims/tettegouche.jpeg
 
 # 6. Jekyll collections settings
 defaults:
