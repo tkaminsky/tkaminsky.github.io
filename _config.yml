@@ -62,9 +62,9 @@ timezone: America/Los_Angeles # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: # Posts # Needed for Siteleaf
+    title:
     output: true
-    description:  # "Here a few of my recent thoughts or ideas!" # The post list page content
+    description: 
     feature_text: |
       <span style="color: white;">Welcome to my blog! Mostly pictures of recent trips, with a few other things springled in.</span>
     feature_image: /cover_im.jpeg
