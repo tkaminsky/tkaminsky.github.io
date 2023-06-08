@@ -2,13 +2,13 @@
 title: 
 feature_text: |
   # <span style="color: white;">Thomas Kaminsky</span>
-  ##<span style="color: white;">Harvard University, '24</span>
+  ## <span style="color: white;">Harvard University, '24</span>
   
 feature_image: /cover_im.jpeg
 excerpt: "Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvard. I am passionate about leaveraging geometric reasoning to better understand and manipulate objects in the world. Thanks for visiting my website!"
 ---
 
-Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvard. I am passionate about leaveraging geometric reasoning to better understand and manipulate objects in the world. 
+Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvard. I am passionate about learning effective geometric representations to better understand and manipulate objects in the world. 
 
 I'm originally from a small town in Washington State called [Walla Walla]("https://en.wikipedia.org/wiki/Walla_Walla,_Washington"), known for [Whitman College]("https://www.whitman.edu/"), its local liberal arts school, its agriculture, especially as a thriving wine region and the home of our world-famous [Walla Walla Sweet Onions]("https://www.sweetonions.org/") (the Washington State vegetable since 2006!), and its incredible outdoor recreation. 
 
