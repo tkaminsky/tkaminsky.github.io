@@ -65,8 +65,7 @@ collections:
     title: Entries
     output: true
     description: "My entries."
-    feature_text: |
-      <span style="color: white;">Here are some of my recent projects. Enjoy!</span>
+    feature_text:
     feature_image: /images/cover_ims/skyline.jpeg
   posts:
     title: Posts
