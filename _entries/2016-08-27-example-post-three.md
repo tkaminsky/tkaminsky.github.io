@@ -1,8 +1,7 @@
 ---
 title: An Example Project
 categories:
-- General
-- External sources
+- Extra
 feature_image: /images/cover_ims/sunset.jpeg
 ---
 
