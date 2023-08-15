@@ -1,14 +1,10 @@
 ---
 title: 
-feature_text: |
-  # <span style="color: white;">Thomas Kaminsky</span>
-  ## <span style="color: white;">Harvard University, '24</span>
+feature_text:
   
 feature_image: /cover_im.jpeg
 excerpt: "Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvard. I am passionate about leaveraging geometric reasoning to better understand and manipulate objects in the world. Thanks for visiting my website!"
 ---
-
-### Thomas Kaminsky, '24
 
 #### A.B. Candidate in **Statistics** and **Mathematics**
 
