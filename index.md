@@ -12,6 +12,11 @@ excerpt: "Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvar
 
 ###### *Secondary Field in Computer Science*
 
+
+{% include figure.html image="/images/index/profile_pic.jpg" caption="A picture of me!" %}
+
+<br/>
+
 Hello! 
 
 I'm Thomas Kaminsky, a senior studying stats and math at Harvard. 
@@ -22,8 +27,9 @@ I also spent a month at the Robotics: Perception and Manipulation Lab at the Uni
 
 I am also passionate about teaching---I spent two years as a course assistant (CA) in Math 22AB, a year-long upperlevel math course on proof-based linear algebra and vector calculus. This year, I am teaching CS 184, an introduction to reinforcement learning co-taught by Professors Sham Kakade and Lucas Janson.
 
+<br/>
 
-
+{% include figure.html image="/images/index/robot.JPG" caption="Me with Spot in 2022!" %}
 
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/tkaminsky" color="#0366d6" %} {% include button.html text="Instagram" link="https://www.instagram.com/tommy.kamin/" icon="instagram" color="#f68140" %} {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/in/thomas-kaminsky/" color="#0d94e7" %} {% include button.html text="YouTube" icon="youtube" link="https://www.youtube.com/@thomaskaminsky2930" color="#0d94e7" %}
