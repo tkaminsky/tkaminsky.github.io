@@ -13,7 +13,7 @@ excerpt: "Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvar
 ###### *Secondary Field in Computer Science*
 
 
-{% include figure.html image="/images/index/profile_pic.jpg" caption="A picture of me!" %}
+{% include figure.html image="/images/index/profile_pic.jpg" caption="A picture of me!" height=50%%}
 
 <br/>
 
