@@ -14,6 +14,12 @@ excerpt: "Hello! I'm Thomas Kaminsky, a senior studying stats and math at Harvar
 
 Hello! 
 
+<br/>
+
+{% include figure.html image="/images/index/profile_pic.jpg" caption="A picture of me!" %}
+
+<br/>
+
 I'm Thomas Kaminsky, a senior studying stats and math at Harvard. 
 
 I have spent the last two summers at the University of Washington as part of the Amazon Manipulation Project, which seeks to learn visuomotor policies to safely and robustly pick and place unknown objects in cluttered bin scenes using a robotic arm. In 2022, I worked with the perception team to create the vision pipeline, generated synthetic data to train unseen object instance segmentation models using state of the art methods out of Fox Lab and NVIDIA, and deployed the system on our robotic arm for an evaluation led by Amazon, exceeding existing benchmarks. This summer, I began work on a research direction seeking to use non-prehensile moves to manipulate the scene to more graspable configurations.
