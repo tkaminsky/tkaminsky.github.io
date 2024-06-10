@@ -1,25 +1,30 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Science + Robotics @ Harvard SEAS.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Science and Engineering Complex</p>
+    <p>150 Western Ave</p>
+    <p>Boston, MA 02134</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, and thanks for checking out my website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Thomas, an incoming Computer Science PhD Student at Harvard University. I am a member of [REACT Lab](https://react.seas.harvard.edu/), advised by Professor [Stephanie Gil](https://gil.seas.harvard.edu/) to develop efficient and robust algorithms for coordination in multi-robot systems. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I studied statistics and math at Harvard.
+My senior thesis, advised by Professor [Gabriel Kreiman](https://brain.harvard.edu/?people=gabriel-kreiman), was concerned with experimentally characterizing autocurriculum learning for sparse robotics tasks---if you're interested, feel free to read it [here](https://klab.tch.harvard.edu/publications/PDFs/gk8166.pdf).
+
+I also spent time at the University of Washington as part of [UW+Amazon Science Hub](https://www.sciencehub.uw.edu/), working on problems for sensing, tracking, and manipulating unknown objects in cluttered bin scenes, and at the University of Minnesota, working with the [Robotics: Perception and Manipulation Lab](https://rpm-lab.github.io/) on understanding how to estimate the poses of unknown objects with symmetries for dual-arm grasping.
+
+If you have any questions, feel free to contact me using any of the links at the bottom of this page.
