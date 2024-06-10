@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tkaminsky.github.io/al-folio/sitemap.xml
+Sitemap: https://tkaminsky.github.io/sitemap.xml
