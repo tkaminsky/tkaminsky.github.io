@@ -2,19 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Thomas Kaminsky
+      value: Bruh
     - name: Date of Birth
-      value: 15th January 2024
+      value: 14th March 1879
     - name: Languages
-      value: English
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science (Ongoing)
-      institution: Harvard University, Cambridge, MA
-      year: 2024 - Present
-      score: 3.945/4.0. Magna Cum Laude.
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
@@ -22,13 +21,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: A.B. in Statistics in Mathematics
+    - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
       description:
         - Description 1.
         - Description 2.
-      
 
 - title: Experience
   type: time_table
