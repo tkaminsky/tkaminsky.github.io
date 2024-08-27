@@ -22,9 +22,9 @@ I display the following information line-by-line:
 ###### Teaching Assistant; Summer 24.
 ###### Instructor: [Simon Rubinstein-Salzedo](http://simonrs.com/)
 
-`TBD`
+`Substitution Ciphers, Vignere Ciphers, Hill Cipheres, Number Theory, Diffie-Hellman, RSA, Elliptic Curve Cryptography, Cryptographic Voting, Secret-Sharing, Zero-Knowledge Proofs, Common Attacks`
 
-I am currently serving on the teaching staff for a cryptography course taught by [Euler Circle](https://eulercircle.com/), a mathematics institute dedicated to teaching college-level math to high schoolers.
+I served on the teaching staff for a cryptography course taught by [Euler Circle](https://eulercircle.com/), a mathematics institute dedicated to teaching college-level math to high schoolers. It followed a [textbook](https://www.amazon.com/Cryptography-Springer-Undergraduate-Mathematics-Rubinstein-Salzedo/dp/3319948172) by Dr. Rubinstein-Salzedo aimed at covering a wide bredth of subjects relevant to modern cryptographic research, with a particular focus given to the most mathematically interesting material, including prime factorization and number theory, elliptic curves, and cryptographic voting.
 
 
 ***
