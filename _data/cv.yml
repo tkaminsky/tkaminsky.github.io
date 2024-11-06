@@ -28,7 +28,6 @@
       description:
         - Description 1.
         - Description 2.
-      
 
 - title: Experience
   type: time_table
