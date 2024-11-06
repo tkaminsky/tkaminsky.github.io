@@ -4,10 +4,15 @@
     <script type="text/javascript">
       window.MathJax = {
         tex: {
+          macros: {
+            norm: ["{\\left\\lVert #1 \\right\\rVert}", 1],
+          },
           tags: 'ams',
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
         },
       };
     </script>
+
     <script
       defer
       type="text/javascript"
@@ -16,6 +21,7 @@
       integrity="{{ site.third_party_libraries.mathjax.integrity.js }}"
       crossorigin="anonymous"
     ></script>
+
     <script
       defer
       src="{{ site.third_party_libraries.polyfill.url.js }}"
