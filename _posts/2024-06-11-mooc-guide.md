@@ -4,7 +4,7 @@ title: A Brief List of MOOCs
 date: 2024-06-11 16:40:16
 description: Some of my favorite hosting sites for online courses, plus some general thoughts about online learning.
 tags: mooc cs learning education
-categories: sample-posts
+categories: misc
 ---
 
 A lot of people right now seem to be interested in self-studying course material, and I think that Massive Open Online Courses (MOOCs) are a great way to organize your learning. We're living in a sort of golden age for free online education, but it can be pretty difficult to navigate all of your options. Here I lay out a sort of guide for the types of online courses that I've encountered, what I understand as the strengths and limitations of each type, and some good first courses to get started with online learning.

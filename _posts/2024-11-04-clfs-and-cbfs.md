@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Lyapunov, Control Lyapunov, and Control Barrier Functions, 
+title: Lyapunov, Control Lyapunov, and Control Barrier Functions
 date: 2024-11-04 10:16:00
 description: A brief introduction to Lyapunov theory as I currently understand it.
 tags: lyapunov control dynamical-systems
-categories: sample-posts
+categories: control
 ---
 
 Lately, I've been running into a lot of work that uses Lyapunov functions to prove statements about the convergence of certain distributed algorithms. I have a limited background in control, and so I initially struggled to wrap my head around these ideas. I also found that it wasn't super easy to find all of the information that I wanted in a digestible format online. To hopefully begin to remedy this, here is my attempt to give a commonsense explanation of Lyapunov Functions, Control Lyapunov Functions, and Control Barrier Functions, at a level relevant to multi-robot coordination research.
@@ -482,7 +482,19 @@ u(x) &= \underset{(u, \delta) \in \mathbb{R}^{m+1}}{\text{arg min}} \frac{1}{2} 
 \end{align*}
 $$
 
-where $\gamma$ is another class $\mathcal{K}$ function, $H(x)$ is any positive definite matrix (so that term drives $\norm{u} \to 0$) and $\delta$ is a relaxation parameter which ensures that the program is solvable. Having the term $p \delta^2$ in the constraint drives this relaxation to $0$. The solution to this problem is guaranteed to be safe, and is likely to be stable (more so as we take $\delta \to 0$).
+where $\gamma$ is another class $\mathcal{K}$ function, $H(x)$ is any positive definite matrix (so that term drives $\norm{u} \to 0$) and $\delta$ is a relaxation parameter which ensures that the program is solvable. Having the term $p \delta^2$ in the constraint drives this relaxation to $0$. The solution to this problem is guaranteed to be safe, and is likely to be stable (more so as we take $\delta \to 0$). 
+
+
+# Conclusion
+
+
+Thus, we find that the problem of controlling subject to some safety constraint, or optimally controlling with both a stability and safety objective, can be achieved using CLFs and CBFs, and solved using existing tools for Quadratic Programming. For example, see the [Control Barrier Function Toolbox](https://www.ll.mit.edu/partner-us/available-technologies/control-barrier-function-toolbox) from Lincoln Labs.
+
+It is perhaps worthwhile to see some concrete examples of CLFs and CBFs in the wild. I plan to cover this in a future blog post, focusing in particular on a paper out of my lab ([Cavorsi et al., 2023. ](https://ieeexplore.ieee.org/abstract/document/10354416?casa_token=6jyiwNV7sCEAAAAA:5BLuAUeRw1ZmuZaxHnD_YfWKkL0wZqbVP8pHQNU8xamrJAbb9cJMJGvkxzNIYrNsIZ59Or0)).
+
+In any case, thanks for reading.
+
+&mdash;Thomas
 
 
 
