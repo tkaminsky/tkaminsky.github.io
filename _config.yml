@@ -197,9 +197,10 @@ latest_posts:
 
 # Markdown and syntax highlight
 markdown: kramdown
-highlighter: rouge
 kramdown:
   input: GFM
+  math_engine: mathjax
+  parse_block_html: true
   syntax_highlighter_opts:
     css_class: "highlight"
     span:
@@ -207,6 +208,7 @@ kramdown:
     block:
       line_numbers: false
       start_line: 1
+mathjax: true
 
 # Includes & excludes
 include: ["_pages"]
@@ -241,7 +243,6 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2

@@ -1,0 +1,15 @@
+{% if site.mathjax or page.mathjax %}
+<!-- MathJax configuration MUST come *before* the script load -->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$',  '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+
+<script async id="MathJax-script"
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endif %}
