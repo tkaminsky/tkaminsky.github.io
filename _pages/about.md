@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello, and thanks for checking out my website!
 
-I'm Thomas, an incoming Computer Science PhD Student at Harvard University. I am a member of [REACT Lab](https://react.seas.harvard.edu/), advised by Professor [Stephanie Gil](https://gil.seas.harvard.edu/) to develop efficient and robust algorithms for coordination in multi-robot systems.
+I'm Thomas, an incoming Computer Science PhD Student at Harvard University. I am a member of [REACT Lab](https://react.seas.harvard.edu/), advised by Professor [Stephanie Gil](https://react.seas.harvard.edu/people/stephanie-gil) to develop efficient and robust algorithms for coordination in multi-robot systems.
 
 Previously, I studied statistics and math at Harvard.
 My senior thesis, advised by Professor [Gabriel Kreiman](https://brain.harvard.edu/?people=gabriel-kreiman), was concerned with experimentally characterizing autocurriculum learning for sparse robotics tasks---if you're interested, feel free to read it [here](https://klab.tch.harvard.edu/publications/PDFs/gk8166.pdf).
