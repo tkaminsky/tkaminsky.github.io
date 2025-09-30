@@ -19,7 +19,7 @@ categories: math
 
  Over winter break, I spent some time watching Prof. [Alan Edelman](https://math.mit.edu/~edelman/) and Prof. [Steven G. Johnson](https://math.mit.edu/~stevenj/)'s course on [Matrix Calculus](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/). 
  It was an IAP course at MIT, which I think means that it was taught informally to a broad audience over a shorter time-span.
- I've been looking for a course like this for a while&mdash;&mdash;calculus had been a pain point for me for a while, and I found that analysis and algebra didn't do much to help me out.
+ I've been looking for a course like this for a while&mdash;&mdash;calculus had been a pain point for me historically, and I found that analysis and algebra didn't do much to help me out.
 To give some illustrative examples, here are some questions that troubled me throughout my high school, college, and graduate studies:
 
  1. I studied stats, and we'd often encounter problems whose solution was the total derivative of a function from vectors to scalars. This is fine, but often applying the 'chain rule' would require calculating derivatives of matrix terms as an intermediate step, which I never understood.
