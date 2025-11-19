@@ -29,7 +29,9 @@ $$
 
 ---
 
-Why
+Why the norm must be bounded by $1/4$, and why this number is scale-invariant, was not entirely obvious to me. I didn't have a good way to think of what being 'within $1/4$' looked like from the perspective of the intrinsic norm.
+
+This tool is an effort to fix this, by seeing how the intrinsic norm 'appears' in both global and local coordinates. Please let me know if you have any thoughts for improvements.
 
 # The Visualizer
 
@@ -39,4 +41,6 @@ For the 6 given functions on top (only some of which are self-concordant), you c
 
 You can also click in the mini-graph on the top left to construct a polygon. This will automatically generate the barrier for that polygon, allowing you to see how this looks too.
 
+I hope you enjoy.
 
+&mdash;Thomas
